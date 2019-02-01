@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ayham-mamoun/Desktop/git/kilo/kilo/kilo.c
+ctype.h
+-
+stdio.h
+-
+stdlib.h
+-
+termios.h
+-
+unistd.h
+-
+

@@ -1,0 +1,3 @@
+/home/ayham-mamoun/Desktop/git/kilo/CMakeFiles/rebuild_cache.dir
+/home/ayham-mamoun/Desktop/git/kilo/CMakeFiles/kilo.dir
+/home/ayham-mamoun/Desktop/git/kilo/CMakeFiles/edit_cache.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ayham-mamoun/Desktop/git/kilo/build",
+  "command": "/usr/bin/gcc-7   -O3 -DNDEBUG -g -O0 -g   -o CMakeFiles/kilo.dir/kilo/kilo.c.o   -c /home/ayham-mamoun/Desktop/git/kilo/kilo/kilo.c",
+  "file": "/home/ayham-mamoun/Desktop/git/kilo/kilo/kilo.c"
+}
+]

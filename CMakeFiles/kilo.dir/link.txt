@@ -1,1 +1,1 @@
-/usr/bin/cc -O3 -DNDEBUG -g   CMakeFiles/kilo.dir/kilo/kilo.c.o  -o bin/kilo 
+/usr/bin/cc -O3 -DNDEBUG -g -O0   CMakeFiles/kilo.dir/kilo/kilo.c.o  -o bin/kilo 

@@ -1,0 +1,1 @@
+/usr/bin/gcc-7 -O3 -DNDEBUG -g -O0 -g   CMakeFiles/kilo.dir/kilo/kilo.c.o  -o bin/kilo 

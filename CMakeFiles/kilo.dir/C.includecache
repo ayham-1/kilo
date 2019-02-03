@@ -9,9 +9,15 @@
 /home/ayham-mamoun/Desktop/git/kilo/kilo/kilo.c
 ctype.h
 -
+errno.h
+-
 stdio.h
 -
 stdlib.h
+-
+string.h
+-
+sys/ioctl.h
 -
 termios.h
 -

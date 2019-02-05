@@ -10,7 +10,7 @@
         "program": "${workspaceFolder}/bin/kilo",
         "args": [],
         "stopAtEntry": false,
-        "cwd": "${workspaceFolder}",
+        "cwd": "${workspaceFolder}/bin/",
         "environment": [],
         "externalConsole": true,
         "MIMode": "gdb",

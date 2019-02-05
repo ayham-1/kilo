@@ -11,6 +11,8 @@ ctype.h
 -
 errno.h
 -
+stdarg.h
+-
 stdio.h
 -
 stdlib.h
@@ -19,7 +21,11 @@ string.h
 -
 sys/ioctl.h
 -
+sys/types.h
+-
 termios.h
+-
+time.h
 -
 unistd.h
 -

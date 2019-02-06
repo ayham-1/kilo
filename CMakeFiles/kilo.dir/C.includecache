@@ -11,6 +11,8 @@ ctype.h
 -
 errno.h
 -
+fcntl.h
+-
 stdarg.h
 -
 stdio.h
